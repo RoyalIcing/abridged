@@ -1,0 +1,7 @@
+name = "abridged"
+type = "webpack"
+webpack_config = "webpack.config.js"
+account_id = "8cb711746bd0906ad5c15a19f1d2dd88"
+workers_dev = true
+route = ""
+zone_id = ""

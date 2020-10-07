@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "abridged",
+  "version": "1.0.0",
+  "description": "A template for kick starting a Cloudflare Workers project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "Patrick Smith <pgwsmith@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "dependencies": {
+    "css": "^3.0.0",
+    "css-tree": "^1.0.0-alpha.39",
+    "mensch": "^0.3.4"
+  }
+}
